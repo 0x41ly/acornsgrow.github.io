@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cyber-Anubis"
+title                    : "0x41ly"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nidal Fikri"
-description              : "Malware Analysis - Reverse Engineering"
+name                     : "Aly Khaled"
+description              : "Malware Development - Red Teaming"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nidal Fikri"
+  name             : "Aly Khaled"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Analysis and Reverse Engineering"
+  bio              : "Malware Development - Red Teaming"
   location         : "Egypt"
   email            :
   links:
     - label: "About Me"
       icon: "fas fa-fw fa-link"
-      url: "https://cyber-anubis.github.io/aboutme/"
+      url: "https://0x4ly.github.io/aboutme/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nidalfikrikamil@gmail.com"
+      url: "mailto:alyarwaa@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cyber_anubis"
+      url: "https://twitter.com/Aly_Khal3d"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/aly.khal3d"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/nidal-fikri-kamil/"
+      url: "https://www.linkedin.com/in/aly-khal3d/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cyber-anubis"
+      url: "https://github.com/0x41ly"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -126,7 +126,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       #url: "https://twitter.com/cyber_anubis"
+      #url: "https://twitter.com/Aly_Khal3d"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
